@@ -114,7 +114,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
-![Uploading q.jpeg…]()
+![img](q.png)
 
 
 ## RESULT:
