@@ -88,11 +88,14 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 
 ##smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
+![n](https://github.com/praveenst13/Enumeration/assets/118787793/d8415f64-ebd0-4eb9-a4e8-002f220f4f91)
 
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
+![Screenshot 2023-05-22 134841](https://github.com/praveenst13/Enumeration/assets/118787793/6257b51a-4fdc-44cc-aaba-cdca76d7f4e5)
 
 select any username in the first column of the above file and check the same
+![o](https://github.com/praveenst13/Enumeration/assets/118787793/5d8df46a-e4c3-4b86-884d-6e01014da92a)
 
 
 #Telnet for smtp enumeration
@@ -102,7 +105,8 @@ and issue appropriate commands
   
  ##Output
   
-  
+  ![p](https://github.com/praveenst13/Enumeration/assets/118787793/42446d0a-0057-47dd-8d50-f3ea43a5e632)
+
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
@@ -110,6 +114,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+![Uploading q.jpeg…]()
 
 
 ## RESULT:
