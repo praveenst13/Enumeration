@@ -37,7 +37,6 @@ filetype: This operator allows you to search for files of a specific type. For e
 Following searches for pdf file in the domain yahoo.com
 
 
-
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
 
